@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebParser_PW2.props" />
+</Project>
